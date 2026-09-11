@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "آمپلی فایر آنالوگ رکسروت VT-11015",
+      "img": "https://hidromad.com/wp-content/uploads/2025/07/vt-11015-1-min-200x200.jpeg",
+      "category": ["هیدرولیک", "کارت پروپورشنال", "Rexroth"],
+      "description": "کارت آمپلی فایر آنالوگ برای کنترل شیرهای پروپورشنال در مدارهای هیدرولیک صنعتی.",
+      "stock": true
+    },
+    {
+      "name": "پرشر سوئیچ اونتیکس R412010767",
+      "img": "https://hidromad.com/wp-content/uploads/2025/07/r412010767-aventics-2-min-200x200.jpeg",
+      "category": ["پنوماتیک", "پرشر سوئیچ پنوماتیک", "AVENTICS"],
+      "description": "سوئیچ فشار برای پایش فشار هوا و ارسال فرمان کنترلی در سیستم‌های پنوماتیک.",
+      "stock": true
+    },
+    {
+      "name": "شیر رلیف رکسروت Z2DB 10 VD2-41/315V",
+      "img": "https://hidromad.com/wp-content/uploads/2022/03/Z2DB-10-VD2-41-315V-web-200x200.jpg",
+      "category": ["هیدرولیک", "رلیف ولو", "Rexroth"],
+      "description": "شیر رلیف برای محدود کردن فشار مدار و محافظت از اجزای هیدرولیک در برابر افزایش فشار.",
+      "stock": false
+    },
+    {
+      "name": "شیر ۳/۲ میکروسوئیچ رکسروت 5634410100",
+      "img": "https://hidromad.com/wp-content/uploads/2024/11/5634410100-min-200x200.jpeg",
+      "category": ["پنوماتیک", "شیرهای پنوماتیک", "Rexroth"],
+      "description": "شیر پنوماتیک میکروسوئیچی برای تغییر مسیر هوای فشرده در مدارهای فرمان.",
+      "stock": true
+    },
+    {
+      "name": "کارت پروپورشنال رکسروت VT-VSPD-1-22/V0/0-0-1",
+      "img": "https://hidromad.com/wp-content/uploads/2025/10/VT-VSPD1-22-V0-0-0-1-1-min-200x200.jpeg",
+      "category": ["هیدرولیک", "کارت پروپورشنال", "Rexroth"],
+      "description": "کارت کنترل الکترونیکی برای راه‌اندازی شیر پروپورشنال و تنظیم عملکرد مدار هیدرولیک.",
+      "stock": true
+    },
+    {
+      "name": "رک کارت پروپورشنال رکسروت VT-3002-1-20/32F",
+      "img": "https://hidromad.com/wp-content/uploads/2024/04/vt-3002-32-1-200x200.jpeg",
+      "category": ["هیدرولیک", "تجهیزات کارت پروپورشنال", "Rexroth"],
+      "description": "رک نصب کارت پروپورشنال برای جانمایی و اتصال کارت کنترل در تابلوهای صنعتی.",
+      "stock": false
+    },
+    {
+      "name": "پرشر سوئیچ رکسروت HED 8 OA 20/200 K14 S",
+      "img": "https://hidromad.com/wp-content/uploads/2022/01/HED-8-200x200.jpg",
+      "category": ["هیدرولیک", "پرشر سوئیچ", "Rexroth"],
+      "description": "سوئیچ فشار هیدرولیک برای تشخیص رسیدن فشار مدار به مقدار تنظیم‌شده و صدور فرمان.",
+      "stock": true
+    },
+    {
+      "name": "شیر پروپورشنال رکسروت 4WRSE 6 V20-31/G24K0/A1V",
+      "img": "https://hidromad.com/wp-content/uploads/2024/11/4wrse-6-v35-31.g24k0-2-min-200x200.jpeg",
+      "category": ["هیدرولیک", "شیر پروپورشنال", "Rexroth"],
+      "description": "شیر پروپورشنال برای تنظیم جریان روغن و کنترل حرکت عملگرها در تجهیزات هیدرولیک.",
+      "stock": true
+    },
+    {
+      "name": "شیر برقی پنوماتیک اونتیکس 0493833502",
+      "img": "https://hidromad.com/wp-content/uploads/2024/06/0493833502-min-200x200.jpeg",
+      "category": ["پنوماتیک", "شیرهای برقی پنوماتیک", "AVENTICS"],
+      "description": "شیر برقی برای کنترل مسیر هوای فشرده و فرمان‌دهی به عملگرهای پنوماتیک.",
+      "stock": false
+    },
+    {
+      "name": "قفل بلوکی رکسروت SL 30 PA1-45",
+      "img": "https://hidromad.com/wp-content/uploads/2024/02/sl30pa1-45-1-min-200x200.jpeg",
+      "category": ["هیدرولیک", "قفل", "Rexroth"],
+      "description": "قفل هیدرولیکی بلوکی برای نگه‌داشتن موقعیت عملگر و کنترل برگشت جریان روغن.",
+      "stock": true
+    }
+  ]
+}
