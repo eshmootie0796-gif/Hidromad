@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { ArrowLeft, ArrowRight, Pause, Phone, Play } from "lucide-react";
+import { ArrowLeft, ArrowRight, Mail, Pause, Phone, Play } from "lucide-react";
 import { useEffect, useState } from "react";
 
 const slides = [
@@ -74,6 +74,10 @@ export default function HeroSection() {
             <span>تماس با هیدروماد</span>
           </div>
           <div className="flex flex-wrap items-center gap-x-6 gap-y-3">
+            <a href="mailto:jamali@hidromad.com" dir="ltr" className="flex items-center gap-2 rounded text-sm font-semibold text-stone-800 hover:text-orange-700 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-orange-700">
+              <Mail size={18} className="shrink-0 text-orange-700" aria-hidden="true" />
+              jamali@hidromad.com
+            </a>
             <a href="tel:02133904804" dir="ltr" className="rounded text-base font-semibold tracking-wide text-stone-800 hover:text-orange-700 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-orange-700">۰۲۱–۳۳۹۰۴۸۰۴</a>
             <a href="tel:09122348792" dir="ltr" className="rounded text-base font-semibold tracking-wide text-stone-800 hover:text-orange-700 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-orange-700">۰۹۱۲–۲۳۴۸۷۹۲</a>
           </div>
