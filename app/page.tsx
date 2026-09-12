@@ -1,3 +1,5 @@
+import HeroSection from "./(pannel)/components/HeroSection";
+
 export default function Home() {
-    return null;
+    return <main><HeroSection /></main>;
 }
