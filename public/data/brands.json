@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Asco Joucomatic",
+    "logo": "/Images/brands/asco-joucomatic.jpg",
+    "id": "asco-joucomatic",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/joucomatic.jpg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Atos",
+    "logo": "/Images/brands/atos.jpg",
+    "id": "atos",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/atos.jpg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "AVENTICS",
+    "logo": "/Images/brands/aventics.png",
+    "id": "aventics",
+    "logoSource": "https://images.seeklogo.com/logo-png/50/1/aventics-gmbh-logo-png_seeklogo-505026.png",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "BD sensor",
+    "logo": "/Images/brands/bd-sensor.png",
+    "id": "bd-sensor",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2025/03/bd-sensor-logo.png",
+    "categories": [
+      "ابزار دقیق"
+    ]
+  },
+  {
+    "name": "Bosch",
+    "logo": "/Images/brands/bosch.jpeg",
+    "id": "bosch",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/BOSCH-LOGO.jpeg",
+    "categories": [
+      "هیدرولیک",
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Burkert",
+    "logo": "/Images/brands/burkert.jpeg",
+    "id": "burkert",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2025/03/2025-03-08-13.41-1.jpeg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Crouzet",
+    "logo": "/Images/brands/crouzet.svg",
+    "id": "crouzet",
+    "logoSource": "https://www.crouzet.com/wp-content/uploads/2023/09/logo-crouzet-sm.svg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Danfoss",
+    "logo": "/Images/brands/danfoss.jpg",
+    "id": "danfoss",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/danfoss-logo.jpg",
+    "categories": [
+      "هیدرولیک",
+      "ابزار دقیق"
+    ]
+  },
+  {
+    "name": "Eaton Vickers",
+    "logo": "/Images/brands/eaton-vickers.jpg",
+    "id": "eaton-vickers",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/vickers.jpg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Festo",
+    "logo": "/Images/brands/festo.jpg",
+    "id": "festo",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/festo.jpg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Haskel",
+    "logo": "/Images/brands/haskel.jpeg",
+    "id": "haskel",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/HASKEL-LOGO.jpeg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Hawe",
+    "logo": "/Images/brands/hawe.jpg",
+    "id": "hawe",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/hawe.jpg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Hydac",
+    "logo": "/Images/brands/hydac.jpg",
+    "id": "hydac",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/hydac.jpg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "ifm",
+    "logo": "/Images/brands/ifm.jpg",
+    "id": "ifm",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/ifm.jpg",
+    "categories": [
+      "ابزار دقیق"
+    ]
+  },
+  {
+    "name": "LAYHER",
+    "logo": "/Images/brands/layher.jpeg",
+    "id": "layher",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/10/LAYHER-LOGO.jpeg",
+    "categories": []
+  },
+  {
+    "name": "MAHLE",
+    "logo": "/Images/brands/mahle.png",
+    "id": "mahle",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/06/images-1.png",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Moog",
+    "logo": "/Images/brands/moog.jpeg",
+    "id": "moog",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/MOOG-LOGO.jpeg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Norgren",
+    "logo": "/Images/brands/norgren.jpg",
+    "id": "norgren",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/NORGREN.jpg",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "Parker",
+    "logo": "/Images/brands/parker.jpg",
+    "id": "parker",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2021/03/Parker.jpg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Rexroth",
+    "logo": "/Images/brands/rexroth.jpeg",
+    "id": "rexroth",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/REXROTH-LOGO.jpeg",
+    "categories": [
+      "هیدرولیک",
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "ROSS",
+    "logo": "/Images/brands/ross.png",
+    "id": "ross",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/05/Ross-Controls-Logo-1.png",
+    "categories": [
+      "پنوماتیک"
+    ]
+  },
+  {
+    "name": "SC Hydraulic",
+    "logo": "/Images/brands/sc-hydraulic.jpeg",
+    "id": "sc-hydraulic",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/SC-LOGO.jpeg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  },
+  {
+    "name": "Sun hydraulics",
+    "logo": "/Images/brands/sun-hydraulics.jpeg",
+    "id": "sun-hydraulics",
+    "logoSource": "https://hidromad.com/wp-content/uploads/2024/02/SUN-LOGO.jpeg",
+    "categories": [
+      "هیدرولیک"
+    ]
+  }
+]
