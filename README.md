@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Category pages use `public/data/category-menu.json` for their hierarchy and
+`public/data/products.json` for products. Brand routes follow
+`/برندها/برندهای-هیدرولیک/hawe`; other product categories use their own root.
+Each listing supports `sort` (`default`, `newest`),
+`original=1`, `stock=1`, and `page` query parameters, with 10 products per page.
+Product `createdAt` dates and `isOriginal` flags are mock values for
+demonstrating sorting and filters, not verified product data.
+
 First, run the development server:
 
 ```bash

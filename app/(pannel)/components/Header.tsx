@@ -8,6 +8,7 @@ import { usePathname } from "next/navigation";
 import { products } from "@/public/data/products.json";
 import CategorySelect from "./CategorySelect";
 import ProductCard from "./ProductCard";
+import ProductCategories from "./ProductCategories";
 
 type Panel = "search";
 type HeaderProps = { searchAction?: string; children?: ReactNode };
@@ -27,7 +28,7 @@ export default function Header({ searchAction, children }: HeaderProps) {
   const [category, setCategory] = useState("");
   const [panel, setPanel] = useState<Panel | null>(null);
   const matches = products.filter((product) =>
-    (!category || product.category.includes(category)) &&
+    (!category || product.category.some((item) => normalize(item) === normalize(category))) &&
     normalize(`${product.name} ${product.description} ${product.category.join(" ")}`).includes(normalize(query)),
   );
   const visible = matches;
@@ -42,7 +43,7 @@ export default function Header({ searchAction, children }: HeaderProps) {
           <Image src="/Images/Logo.svg" alt="هیدروماد" width={145} height={80} className="h-14 w-auto sm:h-18" />
         </Link>
         <form action={searchAction} method="get" role="search" aria-label="جستجوی محصولات" onSubmit={(event) => { if (!searchAction) { event.preventDefault(); setPanel("search"); } }} className="order-last flex w-full flex-wrap items-center gap-1 rounded-2xl border border-stone-200 bg-stone-50 p-1.5 transition-colors focus-within:border-orange-600 lg:order-0 lg:w-auto lg:flex-1">
-          <CategorySelect value={category} options={categories} onChange={setCategory} />
+          <CategorySelect value={category} options={category && !categories.includes(category) ? [...categories, category] : categories} onChange={(value) => { setCategory(value); }} />
           <span aria-hidden="true" className="hidden h-6 w-px bg-stone-200 sm:block" />
           <input type="search" name="q" aria-label="نام یا کد محصول" placeholder="نام یا کد محصول..." value={query} onChange={(event) => setQuery(event.target.value)} className="min-w-0 flex-1 rounded-lg bg-transparent px-3 py-2.5 text-sm outline-none placeholder:text-stone-500 focus-visible:ring-2 focus-visible:ring-orange-700" />
           <button type="submit" aria-label="جستجو" className={`rounded-xl bg-orange-700 p-3 text-white transition-colors cursor-pointer hover:bg-orange-800 ${focus}`}><Icon name="search" /></button>
@@ -57,6 +58,7 @@ export default function Header({ searchAction, children }: HeaderProps) {
           {children}
         </div>
       </div>
+      <ProductCategories onNavigate={() => setPanel(null)} />
       <section id={panelId} hidden={!panel} aria-label={panel ? titles[panel] : undefined} className="border-t border-stone-200 bg-stone-50">
         {panel && <div className="mx-auto max-w-7xl px-4 py-5 sm:px-6">
           <div className="mb-4 flex items-center justify-between">

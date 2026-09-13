@@ -1,0 +1,301 @@
+{
+  "source": "https://hidromad.com/",
+  "categories": [
+    {
+      "label": "برند‌ها",
+      "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/",
+      "children": [
+        {
+          "label": "هیدرولیک",
+          "href": "https://hidromad.com/product-category/hydraulic/",
+          "children": [
+            {
+              "label": "Rexroth",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/rexroth/",
+              "children": []
+            },
+            {
+              "label": "Bosch",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/bosch/",
+              "children": []
+            },
+            {
+              "label": "Eaton Vickers",
+              "href": "https://hidromad.com/product_brand/vickers/",
+              "children": []
+            },
+            {
+              "label": "Parker",
+              "href": "https://hidromad.com/product_brand/parker/",
+              "children": []
+            },
+            {
+              "label": "Hawe",
+              "href": "https://hidromad.com/product_brand/hawe/",
+              "children": []
+            },
+            {
+              "label": "Atos",
+              "href": "https://hidromad.com/product_brand/atos/",
+              "children": []
+            },
+            {
+              "label": "Hydac",
+              "href": "https://hidromad.com/product_brand/hydac/",
+              "children": []
+            },
+            {
+              "label": "Sun hydraulics",
+              "href": "https://hidromad.com/product_brand/sun-hydraulics/",
+              "children": []
+            },
+            {
+              "label": "Moog",
+              "href": "https://hidromad.com/product_brand/moog/",
+              "children": []
+            },
+            {
+              "label": "SC Hydraulic",
+              "href": "https://hidromad.com/product_brand/sc-hydraulic/",
+              "children": []
+            },
+            {
+              "label": "Danfoss",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/danfoss-%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/",
+              "children": []
+            },
+            {
+              "label": "MAHLE",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/mahle/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "پنوماتیک",
+          "href": "https://hidromad.com/product-category/pneumatic/",
+          "children": [
+            {
+              "label": "Norgren",
+              "href": "https://hidromad.com/product_brand/norgren/",
+              "children": []
+            },
+            {
+              "label": "Rexroth",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/rexroth-p/",
+              "children": []
+            },
+            {
+              "label": "Bosch",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/bosch-p/",
+              "children": []
+            },
+            {
+              "label": "Burkert",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/burkert/",
+              "children": []
+            },
+            {
+              "label": "AVENTICS",
+              "href": "https://hidromad.com/product_brand/aventics/",
+              "children": []
+            },
+            {
+              "label": "Festo",
+              "href": "https://hidromad.com/product_brand/festo/",
+              "children": []
+            },
+            {
+              "label": "Asco Joucomatic",
+              "href": "https://hidromad.com/product_brand/asco-joucomatic/",
+              "children": []
+            },
+            {
+              "label": "ROSS",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/ross/",
+              "children": []
+            },
+            {
+              "label": "Haskel",
+              "href": "https://hidromad.com/product_brand/haskel/",
+              "children": []
+            },
+            {
+              "label": "Crouzet",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%af/crouzet/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "ابزار دقیق",
+          "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d9%87%d8%a7%db%8c-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%af%d9%82%db%8c%d9%82/",
+          "children": [
+            {
+              "label": "ifm",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d9%87%d8%a7%db%8c-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%af%d9%82%db%8c%d9%82/ifm/",
+              "children": []
+            },
+            {
+              "label": "Danfoss",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d9%87%d8%a7%db%8c-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%af%d9%82%db%8c%d9%82/danfoss/",
+              "children": []
+            },
+            {
+              "label": "BD sensor",
+              "href": "https://hidromad.com/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d9%87%d8%a7%db%8c-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%af%d9%82%db%8c%d9%82/bd-sensor/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "هیدرولیک",
+      "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/",
+      "children": [
+        {
+          "label": "فشار شکن",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%81%d8%b4%d8%a7%d8%b1-%d8%b4%da%a9%d9%86/",
+          "children": []
+        },
+        {
+          "label": "رلیف ولو",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b1%d9%84%db%8c%d9%81-%d9%88%d9%84%d9%88/",
+          "children": []
+        },
+        {
+          "label": "ردیوسینگ",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b1%d8%af%db%8c%d9%88%d8%b3%db%8c%d9%86%da%af/",
+          "children": []
+        },
+        {
+          "label": "پرشر سوئیچ",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%be%d8%b1%d8%b4%d8%b1-%d8%b3%d9%88%d8%a6%db%8c%da%86/",
+          "children": []
+        },
+        {
+          "label": "کانتربالانس ولو",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%da%a9%d8%a7%d9%86%d8%aa%d8%b1%d8%a8%d8%a7%d9%84%d8%a7%d9%86%d8%b3-%d9%88%d9%84%d9%88/",
+          "children": []
+        },
+        {
+          "label": "شیر بالابر",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b4%db%8c%d8%b1-%d8%a8%d8%a7%d9%84%d8%a7%d8%a8%d8%b1/",
+          "children": []
+        },
+        {
+          "label": "پمپ",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%be%d9%85%d9%be/",
+          "children": []
+        },
+        {
+          "label": "پمپ بوستر",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%be%d9%85%d9%be-%d8%a8%d9%88%d8%b3%d8%aa%d8%b1/",
+          "children": []
+        },
+        {
+          "label": "هیدروموتور",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%85%d9%88%d8%aa%d9%88%d8%b1/",
+          "children": []
+        },
+        {
+          "label": "فلو کنترل",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%81%d9%84%d9%88-%da%a9%d9%86%d8%aa%d8%b1%d9%84/",
+          "children": []
+        },
+        {
+          "label": "فیلتر روغن",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%81%db%8c%d9%84%d8%aa%d8%b1-%d8%b1%d9%88%d8%ba%d9%86/",
+          "children": []
+        },
+        {
+          "label": "ایندیکیتور (نشانگر) فیلتر",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%a7%db%8c%d9%86%d8%af%db%8c%da%a9%db%8c%d8%aa%d9%88%d8%b1-%d9%86%d8%b4%d8%a7%d9%86%da%af%d8%b1-%d9%81%db%8c%d9%84%d8%aa%d8%b1/",
+          "children": []
+        },
+        {
+          "label": "شیرهای برقی هیدرولیک",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b4%db%8c%d8%b1%d9%87%d8%a7%db%8c-%d8%a8%d8%b1%d9%82%db%8c-%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/",
+          "children": []
+        },
+        {
+          "label": "شیر پاپتی",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b4%db%8c%d8%b1-%d9%be%d8%a7%d9%be%d8%aa%db%8c/",
+          "children": []
+        },
+        {
+          "label": "سروو ولو",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b3%d8%b1%d9%88%d9%88-%d9%88%d9%84%d9%88/",
+          "children": []
+        },
+        {
+          "label": "شیر پروپورشنال",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b4%db%8c%d8%b1-%d9%be%d8%b1%d9%88%d9%be%d9%88%d8%b1%d8%b4%d9%86%d8%a7%d9%84/",
+          "children": []
+        },
+        {
+          "label": "کارت پروپورشنال",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%da%a9%d8%a7%d8%b1%d8%aa-%d9%be%d8%b1%d9%88%d9%be%d9%88%d8%b1%d8%b4%d9%86%d8%a7%d9%84/",
+          "children": []
+        },
+        {
+          "label": "آکومولاتور",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%a2%da%a9%d9%88%d9%85%d9%88%d9%84%d8%a7%d8%aa%d9%88%d8%b1/",
+          "children": []
+        },
+        {
+          "label": "قفل",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%82%d9%81%d9%84/",
+          "children": []
+        },
+        {
+          "label": "شیر یک طرفه (سوپاپ)",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d8%b4%db%8c%d8%b1-%db%8c%da%a9-%d8%b7%d8%b1%d9%81%d9%87-%d8%b3%d9%88%d9%be%d8%a7%d9%be/",
+          "children": []
+        },
+        {
+          "label": "نشانگر سطح روغن",
+          "href": "https://hidromad.com/product-category/%d9%87%db%8c%d8%af%d8%b1%d9%88%d9%84%db%8c%da%a9/%d9%86%d8%b4%d8%a7%d9%86%da%af%d8%b1-%d8%b3%d8%b7%d8%ad-%d8%b1%d9%88%d8%ba%d9%86/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "پنوماتیک",
+      "href": "https://hidromad.com/product-category/pneumatic/",
+      "children": [
+        {
+          "label": "رگلاتورهای فشار بالا و دقیق",
+          "href": "https://hidromad.com/?s=%D8%B1%DA%AF%D9%84%D8%A7%D8%AA%D9%88%D8%B1&post_type=product&product_cat=0",
+          "children": []
+        },
+        {
+          "label": "شیرهای برقی پنوماتیک",
+          "href": "https://hidromad.com/product-category/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/%d8%b4%db%8c%d8%b1%d9%87%d8%a7%db%8c-%d8%a8%d8%b1%d9%82%db%8c-%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/",
+          "children": []
+        },
+        {
+          "label": "پرشر سوئیچ پنوماتیک",
+          "href": "https://hidromad.com/product-category/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/%d9%be%d8%b1%d8%b4%d8%b1-%d8%b3%d9%88%db%8c%db%8c%da%86-%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/",
+          "children": []
+        },
+        {
+          "label": "واحد مراقبت",
+          "href": "https://hidromad.com/product-category/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%aa/",
+          "children": []
+        },
+        {
+          "label": "بوستر هوا",
+          "href": "https://hidromad.com/product-category/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/%d8%a8%d9%88%d8%b3%d8%aa%d8%b1-%d9%87%d9%88%d8%a7/",
+          "children": []
+        },
+        {
+          "label": "جک",
+          "href": "https://hidromad.com/product-category/%d9%be%d9%86%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9/%d8%ac%da%a9/",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
