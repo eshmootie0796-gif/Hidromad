@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { useId, useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -8,6 +9,7 @@ import { A11y } from "swiper/modules";
 import type { Swiper as SwiperInstance } from "swiper";
 import "swiper/css";
 import "swiper/css/a11y";
+import { getBrandRoute } from "./catalog";
 
 export type Brand = {
   id: string;
@@ -48,9 +50,10 @@ export default function BrandCarousel({ brands, title = "برندهای ویژه
       <Swiper id={`${id}-slider`} dir="rtl" modules={[A11y]} onSwiper={(instance) => { swiper.current = instance; }} slidesPerView={1.6} spaceBetween={12} breakpointsBase="container" breakpoints={{ 360: { slidesPerView: 2.2 }, 560: { slidesPerView: 3 }, 760: { slidesPerView: 4 }, 960: { slidesPerView: 5 }, 1160: { slidesPerView: 6 } }} rewind watchOverflow grabCursor speed={400} a11y={{ containerMessage: title, itemRoleDescriptionMessage: "برند", slideLabelMessage: "{{index}} از {{slidesLength}}" }} className="p-1!">
         {brands.map((brand) => {
           const content = <><div className="relative h-24 w-full"><Image src={brand.logo} alt={`لوگوی ${brand.name}`} fill sizes="180px" className="object-contain p-3" /></div><span dir="ltr" className="mt-3 block text-center text-xs font-medium text-stone-600 group-hover:text-orange-800">{brand.name}</span></>;
-          const cardClass = "group block w-full rounded-xl border border-stone-100 bg-white px-3 py-4 transition-colors hover:border-orange-200 hover:bg-orange-50/30";
+          const cardClass = "group block w-full rounded-xl border border-stone-100 bg-white px-3 py-4 transition-colors hover:border-orange-300 hover:bg-orange-50/50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-700";
+          const href = getBrandRoute(brand.id);
           return <SwiperSlide key={brand.id}>
-            <div className={cardClass}>{content}</div>
+            {href ? <Link href={href} aria-label={`مشاهده محصولات ${brand.name}`} className={cardClass}>{content}</Link> : <div className={cardClass}>{content}</div>}
           </SwiperSlide>;
         })}
       </Swiper>
