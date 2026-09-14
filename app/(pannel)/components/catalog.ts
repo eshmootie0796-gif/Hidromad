@@ -16,13 +16,26 @@ function makeNode(item: MenuNode, parents: string[], tags: string[], kind: "root
     children: item.children.map((child) => makeNode(child, path, nextTags, label === "برندها" ? "group" : kind === "group" ? "brand" : "type")) };
 }
 export const categoryTree = menu.categories.map((item) => makeNode(item, [], [], "root"));
+export function getBrandRoute(brandId: string) {
+  const brandsRoot = categoryTree.find((item) => item.label === "برندها");
+  return brandsRoot && brands.some((brand) => brand.id === brandId) ? `${brandsRoot.href}/${encodeURIComponent(brandId)}` : undefined;
+}
+
 export function resolveCategory(segments: string[]) {
   const trail: CategoryNode[] = [];
   let options = categoryTree;
-  for (const segment of segments) {
+  for (const [index, segment] of segments.entries()) {
     let decoded: string;
     try { decoded = decodeURIComponent(segment); } catch { return undefined; }
-    const node = options.find((entry) => entry.slug === decoded);
+    const directBrand = index === 1 && trail[0]?.label === "برندها" ? brands.find((brand) => brand.id === decoded) : undefined;
+    const node = options.find((entry) => entry.slug === decoded) ?? (directBrand ? {
+      label: directBrand.name,
+      slug: directBrand.id,
+      href: getBrandRoute(directBrand.id)!,
+      tags: [directBrand.name],
+      logo: directBrand.logo,
+      children: [],
+    } : undefined);
     if (!node) return undefined;
     trail.push(node);
     options = node.children;
